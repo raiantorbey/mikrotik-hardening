@@ -1,1 +1,2 @@
 192.168.88.3
+#enter the ips you want to configure.
